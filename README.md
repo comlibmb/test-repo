@@ -20,3 +20,8 @@ npm start
 ```
 
 Happy coding!
+
+## Features
+
+- Easy to use
+- Open source
